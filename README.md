@@ -1,1 +1,1 @@
-https://cinarblut.netlify.app/
+https://cinarblut.netlify.app
